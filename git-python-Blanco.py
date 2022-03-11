@@ -1,3 +1,6 @@
 print("John Carlo M. Blanco")
 print("Balogo, Boac, Marinduque")
 print("May 2, 2002")
+print("Marinduque State College")
+print("BS Information Technology")
+print("2nd year, section D")
